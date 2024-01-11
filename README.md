@@ -1,5 +1,7 @@
 # Исследование объявлений о продаже квартир
 
+[ipynb](https://github.com/Nanzhik/Research-of-apartment-sales-market/blob/main/Research-of-apartment-sales-market.ipynb)
+
 ## Описание проекта
 
 В распоряжении данные сервиса по продаже недвижимости — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.  
